@@ -3,6 +3,7 @@
 Next: Valid Parentheses
 
 ## Array / String
+
 - [x] Merge Sorted Array
 - [x] Remove Element
 - [x] Remove Duplicates from Sorted Array
@@ -29,6 +30,7 @@ Next: Valid Parentheses
 - [x] Text Justification
 
 ## Two Pointers
+
 - [x] Valid Palindrome
 - [x] Is Subsequence
 - [x] Two Sum II - Input Array Is Sorted
@@ -36,12 +38,14 @@ Next: Valid Parentheses
 - [x] 3Sum
 
 ## Sliding Window
+
 - [x] Minimum Size Subarray Sum
 - [x] Longest Substring Without Repeating Characters
 - [x] Substring with Concatenation of All Words
 - [x] Minimum Window Substring
 
 ## Matrix
+
 - [x] Valid Sudoku
 - [x] Spiral Matrix
 - [x] Rotate Image
@@ -49,6 +53,7 @@ Next: Valid Parentheses
 - [x] Game of Life
 
 ## Hashmap
+
 - [x] Ransom Note
 - [x] Isomorphic Strings
 - [x] Word Pattern
@@ -60,12 +65,14 @@ Next: Valid Parentheses
 - [x] Longest Consecutive Sequence
 
 ## Intervals
+
 - [x] Summary Ranges
 - [x] Merge Intervals
 - [x] Insert Interval
 - [x] Minimum Number of Arrows to Burst Balloons
 
 ## Stack
+
 - [ ] Valid Parentheses
 - [ ] Simplify Path
 - [ ] Min Stack
@@ -73,6 +80,7 @@ Next: Valid Parentheses
 - [ ] Basic Calculator
 
 ## Linked List
+
 - [ ] Linked List Cycle
 - [ ] Add Two Numbers
 - [ ] Merge Two Sorted Lists
@@ -86,6 +94,7 @@ Next: Valid Parentheses
 - [ ] LRU Cache
 
 ## Binary Tree General
+
 - [ ] Maximum Depth of Binary Tree
 - [ ] Same Tree
 - [ ] Invert Binary Tree
@@ -102,17 +111,20 @@ Next: Valid Parentheses
 - [ ] Lowest Common Ancestor of a Binary Tree
 
 ## Binary Tree BFS
+
 - [ ] Binary Tree Right Side View
 - [ ] Average of Levels in Binary Tree
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Zigzag Level Order Traversal
 
 ## Binary Search Tree
+
 - [ ] Minimum Absolute Difference in BST
 - [ ] Kth Smallest Element in a BST
 - [ ] Validate Binary Search Tree
 
 ## Graph General
+
 - [ ] Number of Islands
 - [ ] Surrounded Regions
 - [ ] Clone Graph
@@ -121,16 +133,19 @@ Next: Valid Parentheses
 - [ ] Course Schedule II
 
 ## Graph BFS
+
 - [ ] Snakes and Ladders
 - [ ] Minimum Genetic Mutation
 - [ ] Word Ladder
 
 ## Trie
+
 - [ ] Implement Trie (Prefix Tree)
 - [ ] Design Add and Search Words Data Structure
 - [ ] Word Search II
 
 ## Backtracking
+
 - [ ] Letter Combinations of a Phone Number
 - [ ] Combinations
 - [ ] Permutations
@@ -140,16 +155,19 @@ Next: Valid Parentheses
 - [ ] Word Search
 
 ## Divide & Conquer
+
 - [ ] Convert Sorted Array to Binary Search Tree
 - [ ] Sort List
 - [ ] Construct Quad Tree
 - [ ] Merge k Sorted Lists
 
 ## Kadane's Algorithm
+
 - [ ] Maximum Subarray
 - [ ] Maximum Sum Circular Subarray
 
 ## Binary Search
+
 - [ ] Search Insert Position
 - [ ] Search a 2D Matrix
 - [ ] Find Peak Element
@@ -159,12 +177,14 @@ Next: Valid Parentheses
 - [ ] Median of Two Sorted Arrays
 
 ## Heap
+
 - [ ] Kth Largest Element in an Array
 - [ ] IPO
 - [ ] Find K Pairs with Smallest Sums
 - [ ] Find Median from Data Stream
 
 ## Bit Manipulation
+
 - [ ] Add Binary
 - [ ] Reverse Bits
 - [ ] Number of 1 Bits
@@ -173,6 +193,7 @@ Next: Valid Parentheses
 - [ ] Bitwise AND of Numbers Range
 
 ## Math
+
 - [ ] Palindrome Number
 - [ ] Plus One
 - [ ] Factorial Trailing Zeroes
@@ -181,6 +202,7 @@ Next: Valid Parentheses
 - [ ] Max Points on a Line
 
 ## 1D DP
+
 - [ ] Climbing Stairs
 - [ ] House Robber
 - [ ] Word Break
@@ -188,6 +210,7 @@ Next: Valid Parentheses
 - [ ] Longest Increasing Subsequence
 
 ## Multidimensional DP
+
 - [ ] Triangle
 - [ ] Minimum Path Sum
 - [ ] Unique Paths II
