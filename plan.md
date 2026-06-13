@@ -73,10 +73,10 @@ Next: Valid Parentheses
 
 ## Stack
 
-- [ ] Valid Parentheses
-- [ ] Simplify Path
-- [ ] Min Stack
-- [ ] Evaluate Reverse Polish Notation
+- [x] Valid Parentheses
+- [x] Simplify Path
+- [x] Min Stack
+- [x] Evaluate Reverse Polish Notation
 - [ ] Basic Calculator
 
 ## Linked List
