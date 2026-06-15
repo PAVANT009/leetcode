@@ -77,7 +77,7 @@ Next: Valid Parentheses
 - [x] Simplify Path
 - [x] Min Stack
 - [x] Evaluate Reverse Polish Notation
-- [ ] Basic Calculator
+- [x] Basic Calculator
 
 ## Linked List
 
