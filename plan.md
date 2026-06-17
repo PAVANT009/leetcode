@@ -81,10 +81,10 @@ Next: Valid Parentheses
 
 ## Linked List
 
-- [ ] Linked List Cycle
-- [ ] Add Two Numbers
-- [ ] Merge Two Sorted Lists
-- [ ] Copy List with Random Pointer
+- [x] Linked List Cycle
+- [x] Add Two Numbers
+- [x] Merge Two Sorted Lists
+- [x] Copy List with Random Pointer
 - [ ] Reverse Linked List II
 - [ ] Reverse Nodes in k-Group
 - [ ] Remove Nth Node From End of List
