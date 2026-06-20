@@ -85,11 +85,11 @@ Next: Valid Parentheses
 - [x] Add Two Numbers
 - [x] Merge Two Sorted Lists
 - [x] Copy List with Random Pointer
-- [ ] Reverse Linked List II
+- [x] Reverse Linked List II
 - [ ] Reverse Nodes in k-Group
-- [ ] Remove Nth Node From End of List
-- [ ] Remove Duplicates from Sorted List II
-- [ ] Rotate List
+- [x] Remove Nth Node From End of List
+- [x] Remove Duplicates from Sorted List II
+- [x] Rotate List
 - [ ] Partition List
 - [ ] LRU Cache
 
