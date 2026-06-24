@@ -90,8 +90,8 @@ Next: Valid Parentheses
 - [x] Remove Nth Node From End of List
 - [x] Remove Duplicates from Sorted List II
 - [x] Rotate List
-- [ ] Partition List
-- [ ] LRU Cache
+- [x] Partition List
+- [x] LRU Cache
 
 ## Binary Tree General
 
