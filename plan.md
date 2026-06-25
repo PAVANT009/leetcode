@@ -95,8 +95,8 @@ Next: Valid Parentheses
 
 ## Binary Tree General
 
-- [ ] Maximum Depth of Binary Tree
-- [ ] Same Tree
+- [x] Maximum Depth of Binary Tree
+- [x] Same Tree
 - [ ] Invert Binary Tree
 - [ ] Symmetric Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
